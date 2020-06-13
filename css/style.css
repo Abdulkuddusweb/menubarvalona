@@ -1,0 +1,45 @@
+*{
+	margin:0;
+	padding:0;
+}
+.menu_full{width:100%;}
+
+.menuItems {
+    background: #2c716b;
+	overflow:hidden;
+}
+
+.img_sec {
+    width: 200px;
+    float: left;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.navMenu{
+	width:800px;
+	float:right;
+	
+}
+
+.navMenu ul {
+    list-style: none;
+}
+
+.navMenu ul li {
+    float: left;
+    padding: 20px;
+}
+
+.navMenu ul li a {
+    text-decoration: none;
+    font-size: 23px;
+    color: white;
+	padding:10px 15px;
+}
+
+.navMenu ul li a:hover{
+	background:#fff;
+	color:black;
+	
+}
